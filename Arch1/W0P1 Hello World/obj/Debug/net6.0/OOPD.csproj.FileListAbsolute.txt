@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\bin\Debug\net6.0\OOPD.exe
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\bin\Debug\net6.0\OOPD.deps.json
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\bin\Debug\net6.0\OOPD.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\bin\Debug\net6.0\OOPD.dll
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\bin\Debug\net6.0\OOPD.pdb
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.dll
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\refint\OOPD.dll
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.pdb
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\OOPD.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OOPD\Arch1\op1\obj\Debug\net6.0\ref\OOPD.dll
