@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\bin\Debug\net6.0\W01.2H01_Pay_Tip.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\bin\Debug\net6.0\W01.2H01_Pay_Tip.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\bin\Debug\net6.0\W01.2H01_Pay_Tip.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\bin\Debug\net6.0\W01.2H01_Pay_Tip.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\bin\Debug\net6.0\W01.2H01_Pay_Tip.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\refint\W01.2H01_Pay_Tip.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\W01.2H01_Pay_Tip.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W01.2H01_Pay_Tip\obj\Debug\net6.0\ref\W01.2H01_Pay_Tip.dll

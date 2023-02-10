@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\bin\Debug\net6.0\W1.2H06_Table_Trouble.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\bin\Debug\net6.0\W1.2H06_Table_Trouble.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\bin\Debug\net6.0\W1.2H06_Table_Trouble.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\bin\Debug\net6.0\W1.2H06_Table_Trouble.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\bin\Debug\net6.0\W1.2H06_Table_Trouble.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\refint\W1.2H06_Table_Trouble.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\W1.2H06_Table_Trouble.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H06_Table_Trouble\obj\Debug\net6.0\ref\W1.2H06_Table_Trouble.dll
