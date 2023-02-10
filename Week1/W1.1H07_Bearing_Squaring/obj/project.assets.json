@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week1\\W1H07_Bearing_Squaring\\W1H07_Bearing_Squaring.csproj",
+      "projectUniqueName": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week1\\W1.1H07_Bearing_Squaring\\W1H07_Bearing_Squaring.csproj",
       "projectName": "W1H07_Bearing_Squaring",
-      "projectPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week1\\W1H07_Bearing_Squaring\\W1H07_Bearing_Squaring.csproj",
+      "projectPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week1\\W1.1H07_Bearing_Squaring\\W1H07_Bearing_Squaring.csproj",
       "packagesPath": "C:\\Users\\erikm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week1\\W1H07_Bearing_Squaring\\obj\\",
+      "outputPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week1\\W1.1H07_Bearing_Squaring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikm\\AppData\\Roaming\\NuGet\\NuGet.Config"

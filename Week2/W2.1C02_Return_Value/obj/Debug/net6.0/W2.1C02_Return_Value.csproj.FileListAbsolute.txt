@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\bin\Debug\net6.0\W2.1C02_Return_Value.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\bin\Debug\net6.0\W2.1C02_Return_Value.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\bin\Debug\net6.0\W2.1C02_Return_Value.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\bin\Debug\net6.0\W2.1C02_Return_Value.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\bin\Debug\net6.0\W2.1C02_Return_Value.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\refint\W2.1C02_Return_Value.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\W2.1C02_Return_Value.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C02_Return_Value\obj\Debug\net6.0\ref\W2.1C02_Return_Value.dll
