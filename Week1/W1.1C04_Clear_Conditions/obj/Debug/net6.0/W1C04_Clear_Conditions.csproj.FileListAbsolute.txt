@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\bin\Debug\net6.0\W1C04_Clear_Conditions.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\bin\Debug\net6.0\W1C04_Clear_Conditions.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\bin\Debug\net6.0\W1C04_Clear_Conditions.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\bin\Debug\net6.0\W1C04_Clear_Conditions.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\bin\Debug\net6.0\W1C04_Clear_Conditions.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\refint\W1C04_Clear_Conditions.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\W1C04_Clear_Conditions.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C04_Clear_Conditions\obj\Debug\net6.0\ref\W1C04_Clear_Conditions.dll

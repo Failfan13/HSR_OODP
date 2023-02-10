@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\bin\Debug\net6.0\W1C03_Cel_to_Far.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\bin\Debug\net6.0\W1C03_Cel_to_Far.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\bin\Debug\net6.0\W1C03_Cel_to_Far.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\bin\Debug\net6.0\W1C03_Cel_to_Far.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\bin\Debug\net6.0\W1C03_Cel_to_Far.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\refint\W1C03_Cel_to_Far.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\W1C03_Cel_to_Far.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C03_Cel_to_Far\obj\Debug\net6.0\ref\W1C03_Cel_to_Far.dll

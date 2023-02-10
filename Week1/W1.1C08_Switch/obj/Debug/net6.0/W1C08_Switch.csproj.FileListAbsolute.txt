@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\bin\Debug\net6.0\W1C08_Switch.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\bin\Debug\net6.0\W1C08_Switch.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\bin\Debug\net6.0\W1C08_Switch.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\bin\Debug\net6.0\W1C08_Switch.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\bin\Debug\net6.0\W1C08_Switch.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\refint\W1C08_Switch.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\W1C08_Switch.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C08_Switch\obj\Debug\net6.0\ref\W1C08_Switch.dll

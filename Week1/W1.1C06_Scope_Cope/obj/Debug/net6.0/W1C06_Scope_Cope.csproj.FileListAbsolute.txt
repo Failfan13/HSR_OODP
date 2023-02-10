@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\bin\Debug\net6.0\W1C06_Scope_Cope.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\bin\Debug\net6.0\W1C06_Scope_Cope.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\bin\Debug\net6.0\W1C06_Scope_Cope.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\bin\Debug\net6.0\W1C06_Scope_Cope.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\bin\Debug\net6.0\W1C06_Scope_Cope.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\refint\W1C06_Scope_Cope.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\W1C06_Scope_Cope.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C06_Scope_Cope\obj\Debug\net6.0\ref\W1C06_Scope_Cope.dll

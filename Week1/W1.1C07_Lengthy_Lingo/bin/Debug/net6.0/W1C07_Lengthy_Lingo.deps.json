@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W1C07_Lengthy_Lingo/1.0.0": {
+        "runtime": {
+          "W1C07_Lengthy_Lingo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W1C07_Lengthy_Lingo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

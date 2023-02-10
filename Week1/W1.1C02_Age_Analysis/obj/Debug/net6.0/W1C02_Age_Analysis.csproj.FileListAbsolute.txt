@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\bin\Debug\net6.0\W1C02_Age_Analysis.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\bin\Debug\net6.0\W1C02_Age_Analysis.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\bin\Debug\net6.0\W1C02_Age_Analysis.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\bin\Debug\net6.0\W1C02_Age_Analysis.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\bin\Debug\net6.0\W1C02_Age_Analysis.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\refint\W1C02_Age_Analysis.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\W1C02_Age_Analysis.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C02_Age_Analysis\obj\Debug\net6.0\ref\W1C02_Age_Analysis.dll

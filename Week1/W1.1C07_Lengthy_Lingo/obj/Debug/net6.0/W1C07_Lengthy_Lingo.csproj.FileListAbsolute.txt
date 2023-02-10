@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\bin\Debug\net6.0\W1C07_Lengthy_Lingo.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\bin\Debug\net6.0\W1C07_Lengthy_Lingo.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\bin\Debug\net6.0\W1C07_Lengthy_Lingo.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\bin\Debug\net6.0\W1C07_Lengthy_Lingo.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\bin\Debug\net6.0\W1C07_Lengthy_Lingo.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\refint\W1C07_Lengthy_Lingo.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\W1C07_Lengthy_Lingo.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C07_Lengthy_Lingo\obj\Debug\net6.0\ref\W1C07_Lengthy_Lingo.dll

@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\bin\Debug\net6.0\W1C05_Water_state.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\bin\Debug\net6.0\W1C05_Water_state.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\bin\Debug\net6.0\W1C05_Water_state.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\bin\Debug\net6.0\W1C05_Water_state.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\bin\Debug\net6.0\W1C05_Water_state.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\refint\W1C05_Water_state.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\W1C05_Water_state.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C05_Water_state\obj\Debug\net6.0\ref\W1C05_Water_state.dll

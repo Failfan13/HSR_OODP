@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\bin\Debug\net6.0\W1C09_Switch_Exp_Sta.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\bin\Debug\net6.0\W1C09_Switch_Exp_Sta.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\bin\Debug\net6.0\W1C09_Switch_Exp_Sta.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\bin\Debug\net6.0\W1C09_Switch_Exp_Sta.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\bin\Debug\net6.0\W1C09_Switch_Exp_Sta.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\refint\W1C09_Switch_Exp_Sta.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\W1C09_Switch_Exp_Sta.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1C09_Switch_Exp_Sta\obj\Debug\net6.0\ref\W1C09_Switch_Exp_Sta.dll
