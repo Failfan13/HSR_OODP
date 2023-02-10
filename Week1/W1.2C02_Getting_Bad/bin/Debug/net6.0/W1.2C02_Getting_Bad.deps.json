@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W1.2C02_Getting_Bad/1.0.0": {
+        "runtime": {
+          "W1.2C02_Getting_Bad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W1.2C02_Getting_Bad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\bin\Debug\net6.0\W1.2C09_Fixed_Dice.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\bin\Debug\net6.0\W1.2C09_Fixed_Dice.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\bin\Debug\net6.0\W1.2C09_Fixed_Dice.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\bin\Debug\net6.0\W1.2C09_Fixed_Dice.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\bin\Debug\net6.0\W1.2C09_Fixed_Dice.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\refint\W1.2C09_Fixed_Dice.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\W1.2C09_Fixed_Dice.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C09_Fixed_Dice\obj\Debug\net6.0\ref\W1.2C09_Fixed_Dice.dll

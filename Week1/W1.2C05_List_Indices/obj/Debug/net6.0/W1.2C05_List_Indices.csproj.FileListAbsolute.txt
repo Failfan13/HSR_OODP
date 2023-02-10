@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\bin\Debug\net6.0\W1.2C05_List_Indices.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\bin\Debug\net6.0\W1.2C05_List_Indices.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\bin\Debug\net6.0\W1.2C05_List_Indices.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\bin\Debug\net6.0\W1.2C05_List_Indices.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\bin\Debug\net6.0\W1.2C05_List_Indices.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\refint\W1.2C05_List_Indices.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\W1.2C05_List_Indices.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2C05_List_Indices\obj\Debug\net6.0\ref\W1.2C05_List_Indices.dll
