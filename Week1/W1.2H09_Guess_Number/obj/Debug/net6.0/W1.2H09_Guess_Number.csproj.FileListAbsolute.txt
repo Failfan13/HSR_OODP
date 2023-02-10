@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\bin\Debug\net6.0\W1.2H09_Guess_Number.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\bin\Debug\net6.0\W1.2H09_Guess_Number.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\bin\Debug\net6.0\W1.2H09_Guess_Number.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\bin\Debug\net6.0\W1.2H09_Guess_Number.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\bin\Debug\net6.0\W1.2H09_Guess_Number.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\refint\W1.2H09_Guess_Number.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\W1.2H09_Guess_Number.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H09_Guess_Number\obj\Debug\net6.0\ref\W1.2H09_Guess_Number.dll

@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\bin\Debug\net6.0\W1.2H04_Tax_Task.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\bin\Debug\net6.0\W1.2H04_Tax_Task.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\bin\Debug\net6.0\W1.2H04_Tax_Task.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\bin\Debug\net6.0\W1.2H04_Tax_Task.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\bin\Debug\net6.0\W1.2H04_Tax_Task.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\refint\W1.2H04_Tax_Task.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\W1.2H04_Tax_Task.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H04_Tax_Task\obj\Debug\net6.0\ref\W1.2H04_Tax_Task.dll

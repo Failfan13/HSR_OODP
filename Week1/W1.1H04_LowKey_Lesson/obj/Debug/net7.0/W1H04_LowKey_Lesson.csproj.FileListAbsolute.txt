@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\bin\Debug\net7.0\W1H04_LowKey_Lesson.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\bin\Debug\net7.0\W1H04_LowKey_Lesson.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\bin\Debug\net7.0\W1H04_LowKey_Lesson.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\bin\Debug\net7.0\W1H04_LowKey_Lesson.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\bin\Debug\net7.0\W1H04_LowKey_Lesson.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\refint\W1H04_LowKey_Lesson.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\W1H04_LowKey_Lesson.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H04_LowKey_Lesson\obj\Debug\net7.0\ref\W1H04_LowKey_Lesson.dll

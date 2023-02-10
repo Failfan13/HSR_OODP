@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\bin\Debug\net6.0\W1H07_Bearing_Squaring.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\bin\Debug\net6.0\W1H07_Bearing_Squaring.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\bin\Debug\net6.0\W1H07_Bearing_Squaring.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\bin\Debug\net6.0\W1H07_Bearing_Squaring.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\bin\Debug\net6.0\W1H07_Bearing_Squaring.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\refint\W1H07_Bearing_Squaring.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\W1H07_Bearing_Squaring.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H07_Bearing_Squaring\obj\Debug\net6.0\ref\W1H07_Bearing_Squaring.dll

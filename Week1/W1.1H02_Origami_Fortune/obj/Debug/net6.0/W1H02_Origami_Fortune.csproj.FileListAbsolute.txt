@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\bin\Debug\net6.0\W1H02_Origami_Fortune.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\bin\Debug\net6.0\W1H02_Origami_Fortune.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\bin\Debug\net6.0\W1H02_Origami_Fortune.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\bin\Debug\net6.0\W1H02_Origami_Fortune.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\bin\Debug\net6.0\W1H02_Origami_Fortune.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\refint\W1H02_Origami_Fortune.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\W1H02_Origami_Fortune.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H02_Origami_Fortune\obj\Debug\net6.0\ref\W1H02_Origami_Fortune.dll

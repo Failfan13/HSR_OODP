@@ -1,0 +1,5 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H02_Learn_Turn\obj\Debug\net6.0\W1.2H02_Learn_Turn.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H02_Learn_Turn\obj\Debug\net6.0\W1.2H02_Learn_Turn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H02_Learn_Turn\obj\Debug\net6.0\W1.2H02_Learn_Turn.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H02_Learn_Turn\obj\Debug\net6.0\W1.2H02_Learn_Turn.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H02_Learn_Turn\obj\Debug\net6.0\W1.2H02_Learn_Turn.csproj.CoreCompileInputs.cache

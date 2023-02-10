@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\bin\Debug\net6.0\W1H05_Season_Select.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\bin\Debug\net6.0\W1H05_Season_Select.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\bin\Debug\net6.0\W1H05_Season_Select.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\bin\Debug\net6.0\W1H05_Season_Select.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\bin\Debug\net6.0\W1H05_Season_Select.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\refint\W1H05_Season_Select.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\W1H05_Season_Select.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H05_Season_Select\obj\Debug\net6.0\ref\W1H05_Season_Select.dll

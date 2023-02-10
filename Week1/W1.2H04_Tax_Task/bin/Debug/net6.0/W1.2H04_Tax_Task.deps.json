@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W1.2H04_Tax_Task/1.0.0": {
+        "runtime": {
+          "W1.2H04_Tax_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W1.2H04_Tax_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

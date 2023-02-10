@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\bin\Debug\net6.0\W1.2H03_FizzBuzz.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\bin\Debug\net6.0\W1.2H03_FizzBuzz.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\bin\Debug\net6.0\W1.2H03_FizzBuzz.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\bin\Debug\net6.0\W1.2H03_FizzBuzz.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\bin\Debug\net6.0\W1.2H03_FizzBuzz.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\refint\W1.2H03_FizzBuzz.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\W1.2H03_FizzBuzz.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.2H03_FizzBuzz\obj\Debug\net6.0\ref\W1.2H03_FizzBuzz.dll
