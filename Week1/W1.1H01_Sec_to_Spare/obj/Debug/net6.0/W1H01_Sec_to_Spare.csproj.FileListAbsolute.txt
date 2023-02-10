@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\bin\Debug\net6.0\W1H01_Sec_to_Spare.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\bin\Debug\net6.0\W1H01_Sec_to_Spare.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\bin\Debug\net6.0\W1H01_Sec_to_Spare.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\bin\Debug\net6.0\W1H01_Sec_to_Spare.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\bin\Debug\net6.0\W1H01_Sec_to_Spare.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\refint\W1H01_Sec_to_Spare.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\W1H01_Sec_to_Spare.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\code\week1\W1H01_Sec_to_Spare\obj\Debug\net6.0\ref\W1H01_Sec_to_Spare.dll

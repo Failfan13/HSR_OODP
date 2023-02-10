@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\bin\Debug\net7.0\W1H03_Fix_Syntax.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\bin\Debug\net7.0\W1H03_Fix_Syntax.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\bin\Debug\net7.0\W1H03_Fix_Syntax.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\bin\Debug\net7.0\W1H03_Fix_Syntax.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\bin\Debug\net7.0\W1H03_Fix_Syntax.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\refint\W1H03_Fix_Syntax.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\W1H03_Fix_Syntax.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1H03_Fix_Syntax\obj\Debug\net7.0\ref\W1H03_Fix_Syntax.dll
