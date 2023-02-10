@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W1.3Z01_Change_Remove_Bool/1.0.0": {
+        "runtime": {
+          "W1.3Z01_Change_Remove_Bool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W1.3Z01_Change_Remove_Bool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

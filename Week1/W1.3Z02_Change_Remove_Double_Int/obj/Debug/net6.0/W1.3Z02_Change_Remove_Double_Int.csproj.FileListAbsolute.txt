@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\bin\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\bin\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\bin\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\bin\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\bin\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\refint\W1.3Z02_Change_Remove_Double_Int.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\W1.3Z02_Change_Remove_Double_Int.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week1\W1.3Z02_Change_Remove_Double_Int\obj\Debug\net6.0\ref\W1.3Z02_Change_Remove_Double_Int.dll
