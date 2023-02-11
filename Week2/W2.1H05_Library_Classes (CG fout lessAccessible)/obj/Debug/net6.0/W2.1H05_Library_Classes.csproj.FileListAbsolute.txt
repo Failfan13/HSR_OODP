@@ -1,0 +1,30 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\bin\Debug\net6.0\W2.1H05_Library_Classes.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\bin\Debug\net6.0\W2.1H05_Library_Classes.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\bin\Debug\net6.0\W2.1H05_Library_Classes.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\bin\Debug\net6.0\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\bin\Debug\net6.0\W2.1H05_Library_Classes.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\refint\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\W2.1H05_Library_Classes.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes\obj\Debug\net6.0\ref\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\refint\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\bin\Debug\net6.0\W2.1H05_Library_Classes.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\bin\Debug\net6.0\W2.1H05_Library_Classes.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\bin\Debug\net6.0\W2.1H05_Library_Classes.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\bin\Debug\net6.0\W2.1H05_Library_Classes.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\bin\Debug\net6.0\W2.1H05_Library_Classes.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\W2.1H05_Library_Classes.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H05_Library_Classes (CG fout lessAccessible)\obj\Debug\net6.0\ref\W2.1H05_Library_Classes.dll
