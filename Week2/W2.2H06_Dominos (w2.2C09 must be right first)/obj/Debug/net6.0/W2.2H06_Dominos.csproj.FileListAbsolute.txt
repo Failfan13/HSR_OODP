@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\bin\Debug\net6.0\W2.2H06_Dominos.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\bin\Debug\net6.0\W2.2H06_Dominos.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\bin\Debug\net6.0\W2.2H06_Dominos.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\bin\Debug\net6.0\W2.2H06_Dominos.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\bin\Debug\net6.0\W2.2H06_Dominos.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\refint\W2.2H06_Dominos.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\W2.2H06_Dominos.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H06_Dominos\obj\Debug\net6.0\ref\W2.2H06_Dominos.dll

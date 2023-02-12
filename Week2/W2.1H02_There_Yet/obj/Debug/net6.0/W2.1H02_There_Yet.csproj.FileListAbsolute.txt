@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\bin\Debug\net6.0\W2.1H02_There_Yet.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\bin\Debug\net6.0\W2.1H02_There_Yet.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\bin\Debug\net6.0\W2.1H02_There_Yet.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\bin\Debug\net6.0\W2.1H02_There_Yet.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\bin\Debug\net6.0\W2.1H02_There_Yet.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\refint\W2.1H02_There_Yet.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\W2.1H02_There_Yet.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H02_There_Yet\obj\Debug\net6.0\ref\W2.1H02_There_Yet.dll

@@ -1,0 +1,98 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\testhost.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\testhost.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\W2.1H01_Leap_Year unitest.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\W2.1H01_Leap_Year unitest.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\W2.1H01_Leap_Year unitest.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\W2.1H01_Leap_Year unitest.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.csproj.CopyComplete
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\refint\W2.1H01_Leap_Year unitest.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\W2.1H01_Leap_Year unitest.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1H01_Leap_Year.Tests\obj\Debug\net6.0\ref\W2.1H01_Leap_Year unitest.dll

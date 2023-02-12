@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\bin\Debug\net6.0\W2.2H04_Filter_DNA.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\bin\Debug\net6.0\W2.2H04_Filter_DNA.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\bin\Debug\net6.0\W2.2H04_Filter_DNA.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\bin\Debug\net6.0\W2.2H04_Filter_DNA.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\bin\Debug\net6.0\W2.2H04_Filter_DNA.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\refint\W2.2H04_Filter_DNA.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\W2.2H04_Filter_DNA.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H04_Filter_DNA\obj\Debug\net6.0\ref\W2.2H04_Filter_DNA.dll
