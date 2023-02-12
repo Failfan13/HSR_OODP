@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\bin\Debug\net6.0\W2.2C06_Cute_Friends.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\bin\Debug\net6.0\W2.2C06_Cute_Friends.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\bin\Debug\net6.0\W2.2C06_Cute_Friends.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\bin\Debug\net6.0\W2.2C06_Cute_Friends.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\bin\Debug\net6.0\W2.2C06_Cute_Friends.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\refint\W2.2C06_Cute_Friends.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\W2.2C06_Cute_Friends.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2C06_Cute_Friends\obj\Debug\net6.0\ref\W2.2C06_Cute_Friends.dll

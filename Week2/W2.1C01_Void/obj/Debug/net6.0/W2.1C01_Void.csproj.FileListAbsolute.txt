@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\bin\Debug\net6.0\W2.1C01_Void.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\bin\Debug\net6.0\W2.1C01_Void.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\bin\Debug\net6.0\W2.1C01_Void.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\bin\Debug\net6.0\W2.1C01_Void.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\bin\Debug\net6.0\W2.1C01_Void.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\refint\W2.1C01_Void.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\W2.1C01_Void.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C01_Void\obj\Debug\net6.0\ref\W2.1C01_Void.dll

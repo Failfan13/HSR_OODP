@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\bin\Debug\net6.0\W2.1C03_Express_Method.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\bin\Debug\net6.0\W2.1C03_Express_Method.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\bin\Debug\net6.0\W2.1C03_Express_Method.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\bin\Debug\net6.0\W2.1C03_Express_Method.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\bin\Debug\net6.0\W2.1C03_Express_Method.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\refint\W2.1C03_Express_Method.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\W2.1C03_Express_Method.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C03_Express_Method\obj\Debug\net6.0\ref\W2.1C03_Express_Method.dll

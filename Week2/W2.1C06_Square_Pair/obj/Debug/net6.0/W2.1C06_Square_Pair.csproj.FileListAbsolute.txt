@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\bin\Debug\net6.0\W2.1C06_Square_Pair.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\bin\Debug\net6.0\W2.1C06_Square_Pair.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\bin\Debug\net6.0\W2.1C06_Square_Pair.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\bin\Debug\net6.0\W2.1C06_Square_Pair.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\bin\Debug\net6.0\W2.1C06_Square_Pair.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\refint\W2.1C06_Square_Pair.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\W2.1C06_Square_Pair.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.1C06_Square_Pair\obj\Debug\net6.0\ref\W2.1C06_Square_Pair.dll
