@@ -1,0 +1,5 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H05_Grocery_List\obj\Debug\net6.0\W2.2H05_Grocery_List.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H05_Grocery_List\obj\Debug\net6.0\W2.2H05_Grocery_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H05_Grocery_List\obj\Debug\net6.0\W2.2H05_Grocery_List.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H05_Grocery_List\obj\Debug\net6.0\W2.2H05_Grocery_List.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H05_Grocery_List\obj\Debug\net6.0\W2.2H05_Grocery_List.csproj.CoreCompileInputs.cache

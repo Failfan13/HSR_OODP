@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\bin\Debug\net6.0\W2.2H01_Ventilator.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\bin\Debug\net6.0\W2.2H01_Ventilator.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\bin\Debug\net6.0\W2.2H01_Ventilator.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\bin\Debug\net6.0\W2.2H01_Ventilator.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\bin\Debug\net6.0\W2.2H01_Ventilator.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\refint\W2.2H01_Ventilator.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\W2.2H01_Ventilator.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week2\W2.2H01_Ventilator\obj\Debug\net6.0\ref\W2.2H01_Ventilator.dll
