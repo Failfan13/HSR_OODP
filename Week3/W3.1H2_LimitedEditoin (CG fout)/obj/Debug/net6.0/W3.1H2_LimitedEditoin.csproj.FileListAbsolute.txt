@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\bin\Debug\net6.0\W3.1H2_LimitedEditoin.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\bin\Debug\net6.0\W3.1H2_LimitedEditoin.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\bin\Debug\net6.0\W3.1H2_LimitedEditoin.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\bin\Debug\net6.0\W3.1H2_LimitedEditoin.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\bin\Debug\net6.0\W3.1H2_LimitedEditoin.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\refint\W3.1H2_LimitedEditoin.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\W3.1H2_LimitedEditoin.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H2_LimitedEditoin\obj\Debug\net6.0\ref\W3.1H2_LimitedEditoin.dll

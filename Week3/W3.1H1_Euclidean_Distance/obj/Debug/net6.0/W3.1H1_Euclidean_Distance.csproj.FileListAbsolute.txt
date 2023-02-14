@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\bin\Debug\net6.0\W3.1H1_Euclidean_Distance.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\bin\Debug\net6.0\W3.1H1_Euclidean_Distance.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\bin\Debug\net6.0\W3.1H1_Euclidean_Distance.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\bin\Debug\net6.0\W3.1H1_Euclidean_Distance.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\bin\Debug\net6.0\W3.1H1_Euclidean_Distance.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\refint\W3.1H1_Euclidean_Distance.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\W3.1H1_Euclidean_Distance.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H1_Euclidean_Distance\obj\Debug\net6.0\ref\W3.1H1_Euclidean_Distance.dll
