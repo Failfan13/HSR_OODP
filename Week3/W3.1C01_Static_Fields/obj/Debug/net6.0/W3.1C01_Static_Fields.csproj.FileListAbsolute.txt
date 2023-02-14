@@ -1,0 +1,5 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C01_Static_Fields\obj\Debug\net6.0\W3.1C01_Static_Fields.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C01_Static_Fields\obj\Debug\net6.0\W3.1C01_Static_Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C01_Static_Fields\obj\Debug\net6.0\W3.1C01_Static_Fields.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C01_Static_Fields\obj\Debug\net6.0\W3.1C01_Static_Fields.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C01_Static_Fields\obj\Debug\net6.0\W3.1C01_Static_Fields.csproj.CoreCompileInputs.cache

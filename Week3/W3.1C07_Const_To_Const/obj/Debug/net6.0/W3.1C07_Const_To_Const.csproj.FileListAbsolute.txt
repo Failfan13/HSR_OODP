@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\bin\Debug\net6.0\W3.1C07_Const_To_Const.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\bin\Debug\net6.0\W3.1C07_Const_To_Const.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\bin\Debug\net6.0\W3.1C07_Const_To_Const.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\bin\Debug\net6.0\W3.1C07_Const_To_Const.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\bin\Debug\net6.0\W3.1C07_Const_To_Const.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\refint\W3.1C07_Const_To_Const.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\W3.1C07_Const_To_Const.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C07_Const_To_Const\obj\Debug\net6.0\ref\W3.1C07_Const_To_Const.dll

@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\bin\Debug\net6.0\W3.1C09_Readonly.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\bin\Debug\net6.0\W3.1C09_Readonly.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\bin\Debug\net6.0\W3.1C09_Readonly.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\bin\Debug\net6.0\W3.1C09_Readonly.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\bin\Debug\net6.0\W3.1C09_Readonly.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\refint\W3.1C09_Readonly.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\W3.1C09_Readonly.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C09_Readonly\obj\Debug\net6.0\ref\W3.1C09_Readonly.dll

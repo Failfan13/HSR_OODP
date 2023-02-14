@@ -1,0 +1,5 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C02_Static_Classes\obj\Debug\net6.0\W3.1C02_Static_Classes.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C02_Static_Classes\obj\Debug\net6.0\W3.1C02_Static_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C02_Static_Classes\obj\Debug\net6.0\W3.1C02_Static_Classes.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C02_Static_Classes\obj\Debug\net6.0\W3.1C02_Static_Classes.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C02_Static_Classes\obj\Debug\net6.0\W3.1C02_Static_Classes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W3.1C04_Using_Static_C_M_F/1.0.0": {
+        "runtime": {
+          "W3.1C04_Using_Static_C_M_F.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W3.1C04_Using_Static_C_M_F/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
