@@ -1,0 +1,5 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.csproj.CoreCompileInputs.cache
