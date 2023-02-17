@@ -1788,6 +1788,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "W3.2C1_Roll_The_Dice/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/W3.2C1_Roll_The_Dice.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/W3.2C1_Roll_The_Dice.dll": {}
+        }
       }
     }
   },
@@ -6325,6 +6335,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "W3.2C1_Roll_The_Dice/1.0.0": {
+      "type": "project",
+      "path": "../W3.2C1_Roll_The_Dice/W3.2C1_Roll_The_Dice.csproj",
+      "msbuildProject": "../W3.2C1_Roll_The_Dice/W3.2C1_Roll_The_Dice.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6332,6 +6347,7 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "W3.2C1_Roll_The_Dice >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -6341,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Test\\W3.2C1_Roll_The_Dice.Test.csproj",
-      "projectName": "W3.2C1_Roll_The_Dice.Test",
-      "projectPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Test\\W3.2C1_Roll_The_Dice.Test.csproj",
+      "projectUniqueName": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Tests\\W3.2C1_Roll_The_Dice.Tests.csproj",
+      "projectName": "W3.2C1_Roll_The_Dice.Tests",
+      "projectPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Tests\\W3.2C1_Roll_The_Dice.Tests.csproj",
       "packagesPath": "C:\\Users\\erikm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Test\\obj\\",
+      "outputPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6359,7 +6375,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice\\W3.2C1_Roll_The_Dice.csproj": {
+              "projectPath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice\\W3.2C1_Roll_The_Dice.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

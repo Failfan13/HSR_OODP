@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zei6DZADkK2oH26gWUEVA5xhs3iBXr2LNx6oZ1ln19AJ04l9wB8cKT7mPX9lFzGfT55viNhbm5b4+KtFwlYETQ==",
+  "dgSpecHash": "MvozuzffS3jj09wd7m0N8BKhxJMwxHESNDxJOQxtTwHaz59+f+hMNRSGF5Lds81Ss28XaFjwcHILSJOV9S35CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Test\\W3.2C1_Roll_The_Dice.Test.csproj",
+  "projectFilePath": "C:\\Users\\erikm\\Documents\\Opdrachten\\OODP\\Code\\Week3\\W3.2C1_Roll_The_Dice.Tests\\W3.2C1_Roll_The_Dice.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikm\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\erikm\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
