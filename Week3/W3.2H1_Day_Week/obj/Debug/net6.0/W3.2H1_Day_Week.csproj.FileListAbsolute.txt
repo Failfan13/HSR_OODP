@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\bin\Debug\net6.0\W3.2H1_Day_Week.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\bin\Debug\net6.0\W3.2H1_Day_Week.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\bin\Debug\net6.0\W3.2H1_Day_Week.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\bin\Debug\net6.0\W3.2H1_Day_Week.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\bin\Debug\net6.0\W3.2H1_Day_Week.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\refint\W3.2H1_Day_Week.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\W3.2H1_Day_Week.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2H1_Day_Week\obj\Debug\net6.0\ref\W3.2H1_Day_Week.dll
