@@ -1,0 +1,14 @@
+*.suo
+*.user
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.[Cc]ache
+*.cache
+obj
+bin
+.vscode
+obj/mini_project_OP3.csproj.nuget.dgspec.json
+obj/mini_project_OP3.csproj.nuget.g.props
+obj/project.assets.json
+obj/project.nuget.cache
