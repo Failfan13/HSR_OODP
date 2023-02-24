@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\bin\Debug\net6.0\W3.1H4_Game_Randomness.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\bin\Debug\net6.0\W3.1H4_Game_Randomness.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\bin\Debug\net6.0\W3.1H4_Game_Randomness.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\bin\Debug\net6.0\W3.1H4_Game_Randomness.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\bin\Debug\net6.0\W3.1H4_Game_Randomness.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\refint\W3.1H4_Game_Randomness.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\W3.1H4_Game_Randomness.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H4_Game_Randomness\obj\Debug\net6.0\ref\W3.1H4_Game_Randomness.dll

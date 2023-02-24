@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\bin\Debug\net6.0\W3.1C08_Const_Fields.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\bin\Debug\net6.0\W3.1C08_Const_Fields.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\bin\Debug\net6.0\W3.1C08_Const_Fields.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\bin\Debug\net6.0\W3.1C08_Const_Fields.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\bin\Debug\net6.0\W3.1C08_Const_Fields.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\refint\W3.1C08_Const_Fields.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\W3.1C08_Const_Fields.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C08_Const_Fields\obj\Debug\net6.0\ref\W3.1C08_Const_Fields.dll

@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\bin\Debug\net6.0\W3.2C1_Roll_The_Dice.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\bin\Debug\net6.0\W3.2C1_Roll_The_Dice.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\bin\Debug\net6.0\W3.2C1_Roll_The_Dice.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\bin\Debug\net6.0\W3.2C1_Roll_The_Dice.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\bin\Debug\net6.0\W3.2C1_Roll_The_Dice.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\refint\W3.2C1_Roll_The_Dice.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\W3.2C1_Roll_The_Dice.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.2C1_Roll_The_Dice\obj\Debug\net6.0\ref\W3.2C1_Roll_The_Dice.dll

@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\bin\Debug\net6.0\W3.1C06_Const_Variable.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\bin\Debug\net6.0\W3.1C06_Const_Variable.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\bin\Debug\net6.0\W3.1C06_Const_Variable.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\bin\Debug\net6.0\W3.1C06_Const_Variable.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\bin\Debug\net6.0\W3.1C06_Const_Variable.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\refint\W3.1C06_Const_Variable.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\W3.1C06_Const_Variable.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C06_Const_Variable\obj\Debug\net6.0\ref\W3.1C06_Const_Variable.dll

@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 4,
+  "editor.defaultFormatter": null,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  }
+}

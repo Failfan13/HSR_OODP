@@ -1,0 +1,5 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H5_Card_Deck\obj\Debug\net6.0\W3.1H5_Card_Deck.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H5_Card_Deck\obj\Debug\net6.0\W3.1H5_Card_Deck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H5_Card_Deck\obj\Debug\net6.0\W3.1H5_Card_Deck.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H5_Card_Deck\obj\Debug\net6.0\W3.1H5_Card_Deck.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1H5_Card_Deck\obj\Debug\net6.0\W3.1H5_Card_Deck.csproj.CoreCompileInputs.cache

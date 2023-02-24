@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/JukeboxTest/JukeboxTest.csproj": {}
+  },
+  "projects": {
+    "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/Jukebox/Jukebox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/Jukebox/Jukebox.csproj",
+        "projectName": "Jukebox",
+        "projectPath": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/Jukebox/Jukebox.csproj",
+        "packagesPath": "/Users/alessandroibba/.nuget/packages/",
+        "outputPath": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/Jukebox/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alessandroibba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/JukeboxTest/JukeboxTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/JukeboxTest/JukeboxTest.csproj",
+        "projectName": "JukeboxTest",
+        "projectPath": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/JukeboxTest/JukeboxTest.csproj",
+        "packagesPath": "/Users/alessandroibba/.nuget/packages/",
+        "outputPath": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/JukeboxTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alessandroibba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/Jukebox/Jukebox.csproj": {
+                "projectPath": "/Users/alessandroibba/HogeschoolRotterdam/2022-23/Deeltijd/OODP/Lessen/W03.2/jukebox-testing/Jukebox/Jukebox.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.124, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

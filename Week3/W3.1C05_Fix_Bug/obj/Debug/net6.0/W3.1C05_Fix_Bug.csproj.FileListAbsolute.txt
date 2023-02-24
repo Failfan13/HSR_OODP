@@ -1,0 +1,15 @@
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\bin\Debug\net6.0\W3.1C05_Fix_Bug.exe
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\bin\Debug\net6.0\W3.1C05_Fix_Bug.deps.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\bin\Debug\net6.0\W3.1C05_Fix_Bug.runtimeconfig.json
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\bin\Debug\net6.0\W3.1C05_Fix_Bug.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\bin\Debug\net6.0\W3.1C05_Fix_Bug.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.csproj.AssemblyReference.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.AssemblyInfoInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.AssemblyInfo.cs
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\refint\W3.1C05_Fix_Bug.dll
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.pdb
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\W3.1C05_Fix_Bug.genruntimeconfig.cache
+C:\Users\erikm\Documents\Opdrachten\OODP\Code\Week3\W3.1C05_Fix_Bug\obj\Debug\net6.0\ref\W3.1C05_Fix_Bug.dll
