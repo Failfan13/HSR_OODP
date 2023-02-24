@@ -1,27 +1,41 @@
-class DayOfWeek {
+class DayOfWeek
+{
 
-    public static readonly List<string> Days = new () {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
-    public DayOfWeek(int startDay) {
+    public int StartDay;
 
+    public static readonly List<string> Days = new() { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+    public DayOfWeek(int startDay)
+    {
+        StartDay = startDay;
     }
-    public static dynamic IndexToDay(int day) {
-        var tempDay = (day) switch {
-            < 0 => Days[(day & 7) -1],
-            > 6 => Days[(day + 6)],
-            _ => Convert.ToString(Days[day])
+    public static string IndexToDay(int day)
+    {
+        string tempDay = day switch
+        {
+            < 0 => Days[(day & 7) - 1],
+            > 6 => Days[day % 7],
+            _ => Days[day]
         };
         return tempDay;
     }
 
-    public bool IsWeekend() {
-        return true;
+    public bool IsWeekend()
+    {
+        var tempDay = IndexToDay(StartDay);
+        if (tempDay == "Saturday" || tempDay == "Sunday")
+        {
+            return true;
+        }
+        return false;
     }
 
-    public string CurrentDay() {
-        return "";
+    public string CurrentDay()
+    {
+        return IndexToDay(StartDay);
     }
-    public string NextDay() {
-        return "";
+    public void NextDay()
+    {
+        StartDay++;
     }
 
 }
