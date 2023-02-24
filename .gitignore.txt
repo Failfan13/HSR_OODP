@@ -1,0 +1,6 @@
+*.suo
+*.user
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.[Cc]ache
