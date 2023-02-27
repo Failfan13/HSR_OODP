@@ -17,17 +17,26 @@
 //     public static List<Person> ReadJson()
 //     {
 //         List<Person> listOfObjects = new();
+//         StreamReader reader = null;
 //         try
 //         {
-//             StreamReader reader = new(@"People.json");
-//             string jsonText = reader.ReadToEnd();
+//             string jsonText = "";
+//             try
+//             {
+//                 reader = new(@"People.json");
+//                 jsonText = reader.ReadToEnd();
+//             }
+//             catch (FileNotFoundException e)
+//             {
+//                 Console.WriteLine($"Missing JSON file. {e.Message}");
+//             }
 //             listOfObjects.AddRange(JsonConvert.DeserializeObject<List<Person>>(jsonText));
 //             reader.Close();
 //             reader.Dispose();
 //         }
-//         catch (Exception e)
+//         catch (JsonReaderException e)
 //         {
-//             Console.WriteLine(e);
+//             Console.WriteLine($"Invalid JSON. {e.Message}");
 //         }
 
 //         return listOfObjects;

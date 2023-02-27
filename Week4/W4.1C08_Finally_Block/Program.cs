@@ -19,15 +19,26 @@
 //         List<Person> listOfObjects = new();
 //         try
 //         {
-//             StreamReader reader = new(@"People.json");
+//             StreamReader reader = null;
+//             try
+//             {
+//                 reader = new(@"People.json");
+//             }
+//             catch (System.IO.IOException e)
+//             {
+//                 Console.WriteLine($"Missing JSON file. {e}");
+//             }
+//             finally
+//             {
+//                 reader.Close();
+//                 reader.Dispose();
+//             }
 //             string jsonText = reader.ReadToEnd();
 //             listOfObjects.AddRange(JsonConvert.DeserializeObject<List<Person>>(jsonText));
-//             reader.Close();
-//             reader.Dispose();
 //         }
-//         catch (Exception e)
+//         catch (Newtonsoft.Json.JsonReaderException e)
 //         {
-//             Console.WriteLine(e);
+//             Console.WriteLine($"Invalid JSON. {e}");
 //         }
 
 //         return listOfObjects;
@@ -49,10 +60,3 @@
 //         }
 //     }
 // }
-
-// /* Exceptions -> try catch:
-//         /home/codegrade/student/Files/Program.cs(21,38): warning CS8600: 
-//         Converting null literal or possible null value to non-nullable type. [/home/codegrade/student/Files/Files.csproj]
-//         /home/codegrade/student/Files/Program.cs(24,16): warning CS8603: 
-//         Possible null reference return. [/home/codegrade/student/Files/Files.csproj]
-// */
