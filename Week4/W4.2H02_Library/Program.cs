@@ -28,7 +28,7 @@
         HRLib.AddBook(3, "Clean Code");
         HRLib.AddBook(4, "Code Complete");
         HRLib.AddBook(5, "Programming Pearls");
-        Console.WriteLine($"Added {HRLib.listOfBooks.Count} books successfully");
+        Console.WriteLine($"Added {HRLib.Books.Count} books successfully");
 
         Console.WriteLine("\nTesting FindBook with int ID");
         Book lookup;
