@@ -23,15 +23,15 @@
         };
         book.SetPrice(25, "EUR");
 
-        Magazine magazine = new(
-            "Popular Mechanics",
-            "Hearst Communications",
-            "January 2021",
-            new List<string>() { "Engineers",
-                "Technology enthousiasts", "DIY enthousiasts" })
-        {
-            Pages = 30
-        };
+        // Magazine magazine = new(
+        //     "Popular Mechanics",
+        //     "Hearst Communications",
+        //     "January 2021",
+        //     new List<string>() { "Engineers",
+        //         "Technology enthousiasts", "DIY enthousiasts" })
+        // {
+        //     Pages = 30
+        // };
 
         // PrintInfo(new List<Publication>() { journal, book, magazine });
     }
