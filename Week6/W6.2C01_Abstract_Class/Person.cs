@@ -11,10 +11,7 @@ abstract class Person
         LastName = lastName;
     }
 
-    public abstract string Greet()
-    {
-        return $"Hello";
-    }
+    public abstract string Greet();
 
     public virtual string GetFullName()
     {

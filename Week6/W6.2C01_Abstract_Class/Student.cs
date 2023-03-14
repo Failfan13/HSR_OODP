@@ -1,5 +1,6 @@
 class Student : Person
 {
+    public override int Age { get; set; }
     public override string FirstName { get; set; }
     public override string LastName { get; set; }
     public bool HasGraduated { get; set; }
