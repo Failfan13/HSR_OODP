@@ -16,7 +16,7 @@ class ListWrapper<T>
         return _myLst.Count();
     }
 
-    public string HighestCount(ListWrapper<T> list)
+    public int HighestCount(ListWrapper<T> list)
     {
         return list.Count();
     }

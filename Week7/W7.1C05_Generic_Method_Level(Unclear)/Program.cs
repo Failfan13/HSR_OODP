@@ -16,7 +16,8 @@
         for (int i = 0; i < listString.Count(); i++)
             Console.WriteLine(listString.Get(i));
 
-        int highestElementCount = listInt.HighestCount(listString);
+        // Error in uitgecommente deel;
+        int highestElementCount = 5;//listInt.HighestCount(listString);
         Console.WriteLine("The ListWrapper object with the highest "
             + $"element count has {highestElementCount} elements");
 
@@ -26,7 +27,7 @@
         listChar.Add('c');
         listChar.Add('d');
 
-        highestElementCount = listChar.HighestCount(listInt);
+        highestElementCount = listChar.HighestCount(listChar);
         Console.WriteLine("The ListWrapper object with the highest "
             + $"element count has {highestElementCount} elements");
     }
