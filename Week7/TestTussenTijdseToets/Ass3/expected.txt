@@ -1,0 +1,98 @@
+Class Bird implements the IFly interface: True
+Class Bird implements the ISing interface: True
+
+Testing IFly functionality...
+Flying...
+Height: 0
+Weight: 0
+Altitude: 1
+Flying...
+Height: 0
+Weight: 0
+Altitude: 2
+Flying...
+Height: 0
+Weight: 0
+Altitude: 3
+Landing...
+Height: 0
+Weight: 0
+Altitude: 0
+
+Testing ISing functionality...
+Chirp chirp
+
+Testing Weight and Height boundaries...
+Height: 0
+Weight: 0
+Altitude: 0
+Height: 20
+Weight: 25
+Altitude: 0
+
+Testing Eat functionality...
+Height: 0
+Weight: 0
+Altitude: 0
+Bird attempts to eat Worm. Does he like it? True
+Height: 3
+Weight: 5
+Altitude: 0
+Bird attempts to eat Seed. Does he like it? True
+Height: 6
+Weight: 10
+Altitude: 0
+Bird attempts to eat Insect. Does he like it? True
+Height: 9
+Weight: 15
+Altitude: 0
+Bird attempts to eat Carrot. Does he like it? False
+Height: 9
+Weight: 15
+Altitude: 0
+Bird attempts to eat Worm. Does he like it? True
+Height: 12
+Weight: 20
+Altitude: 0
+Bird attempts to eat Seed. Does he like it? True
+Height: 15
+Weight: 25
+Altitude: 0
+Bird attempts to eat Insect. Does he like it? True
+Height: 18
+Weight: 30
+Altitude: 0
+Bird attempts to eat Carrot. Does he like it? False
+Height: 18
+Weight: 30
+Altitude: 0
+Bird attempts to eat Worm. Does he like it? True
+Height: 20
+Weight: 35
+Altitude: 0
+Bird attempts to eat Seed. Does he like it? True
+Height: 20
+Weight: 40
+Altitude: 0
+Bird attempts to eat Insect. Does he like it? True
+Height: 20
+Weight: 45
+Altitude: 0
+Bird attempts to eat Carrot. Does he like it? False
+Height: 20
+Weight: 45
+Altitude: 0
+
+
+IFly is an interface: True
+ISing is an interface: True
+
+Class Creature cannot be instantiated: True
+Class Creature does NOT implement IFly as interface: True
+Class Creature does NOT implement ISing as interface: True
+Method Eat has no implementation: True
+Method PrintInfo is virtual: True
+Property Height is virtual: True
+
+Property Height can be read anywhere, but only written to in this and derived classes: Correct!
+Property Weight can be read anywhere, but only written to in this and derived classes: Correct!

@@ -1,0 +1,4 @@
+interface ISing
+{
+    string Sing();
+}
