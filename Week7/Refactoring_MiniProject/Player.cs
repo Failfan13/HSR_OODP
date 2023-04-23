@@ -31,7 +31,7 @@ public class Player<T>
     public void IncreaseExperiencePoints(int points)
     {
         ExperiencePoints += points;
-        (int)Level = (int)(ExperiencePoints / 100) + 1;
+        //(int)Level = (int)(ExperiencePoints / 100) + 1;
     }
 
     public string Info()
@@ -81,7 +81,7 @@ public class Player<T>
     {
         return World.RandomGenerator.Next(
                     CurrentWeapon.MinimumDamage,
-                    CurrentWeapon.MaximumDamage + (int)Level
+                    CurrentWeapon.MaximumDamage //+ //(int)Level
                 );
     }
 }
