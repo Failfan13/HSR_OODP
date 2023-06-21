@@ -7,20 +7,20 @@ public class EmployeeData
         _employees = employees;
     }
 
-    public List<double> GetSalaryRange()
+    public (double, double) GetSalaryRange()
     {
-        double minSalary = double.MaxValue;
-        double maxSalary = double.MinValue;
+        double minSalary = double.MinValue;
+        double maxSalary = double.MaxValue;
 
         foreach (Employee employee in _employees)
         {
-            if (employee.Salary < minSalary)
+            if (employee.Salary > minSalary)
                 minSalary = employee.Salary;
 
-            if (employee.Salary > maxSalary)
+            if (employee.Salary < maxSalary)
                 maxSalary = employee.Salary;
         }
 
-        return new List<double>() { minSalary, maxSalary };
+        return (maxSalary, minSalary);
     }
 }
