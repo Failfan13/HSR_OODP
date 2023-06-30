@@ -1,0 +1,89 @@
+[
+    {
+        "code": "WNHU 230011 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Vegetables",
+            "Fruits"
+        ],
+        "origin": "COL",
+        "weight": "23,520 lbs",
+        "actual_weight": "25,872 lbs"
+    },
+    {
+        "code": "WNHU 230012 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Vegetables",
+            "Fruits"
+        ],
+        "origin": "PER",
+        "weight": "36,780 lbs",
+        "actual_weight": "36,900 lbs"
+    },
+    {
+        "code": "WNHU 230013 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Fruits"
+        ],
+        "origin": "COL",
+        "weight": "17,990 lbs",
+        "actual_weight": "17,990 lbs"
+    },
+    {
+        "code": "WNHU 230014 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Flowers",
+            "Plants"
+        ],
+        "origin": "ES",
+        "weight": "10,070 lbs",
+        "actual_weight": "20,872 lbs"
+    },
+    {
+        "code": "WNHU 230015 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Electronics",
+            "Appliances"
+        ],
+        "origin": "USA",
+        "weight": "12,500 lbs",
+        "actual_weight": "12,500 lbs"
+    },
+    {
+        "code": "WNHU 230016 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Clothing",
+            "Accessories"
+        ],
+        "origin": "CHN",
+        "weight": "8,200 lbs",
+        "actual_weight": "8,250 lbs"
+    },
+    {
+        "code": "WNHU 230017 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Books",
+            "Stationery"
+        ],
+        "origin": "GBR",
+        "weight": "6,400 lbs",
+        "actual_weight": "6,400 lbs"
+    },
+    {
+        "code": "WNHU 230018 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Toys",
+            "Games"
+        ],
+        "origin": "JPN",
+        "weight": "15,800 lbs",
+        "actual_weight": "15,750 lbs"
+    }
+]

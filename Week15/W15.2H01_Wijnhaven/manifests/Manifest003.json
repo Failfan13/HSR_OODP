@@ -1,0 +1,117 @@
+[
+    {
+        "code": "WNHU 230039 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Vegetables",
+            "Fruits",
+            "Snacks"
+        ],
+        "origin": "COL",
+        "weight": "22,600 lbs",
+        "actual_weight": "22,600 lbs"
+    },
+    {
+        "code": "WNHU 230040 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Fruits",
+            "Beverages"
+        ],
+        "origin": "USA",
+        "weight": "40,000 lbs",
+        "actual_weight": "44,500 lbs"
+    },
+    {
+        "code": "WNHU 230041 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Vegetables",
+            "Fruits",
+            "Dairy"
+        ],
+        "origin": "COL",
+        "weight": "15,200 lbs",
+        "actual_weight": "15,800 lbs"
+    },
+    {
+        "code": "WNHU 230042 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Fruits",
+            "Cosmetics"
+        ],
+        "origin": "PER",
+        "weight": "18,500 lbs",
+        "actual_weight": "20,700 lbs"
+    },
+    {
+        "code": "WNHU 230043 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Vegetables",
+            "Fruits",
+            "Pet Supplies"
+        ],
+        "origin": "COL",
+        "weight": "19,800 lbs",
+        "actual_weight": "21,900 lbs"
+    },
+    {
+        "code": "WNHU 230044 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Fruits",
+            "Home Decor"
+        ],
+        "origin": "USA",
+        "weight": "14,500 lbs",
+        "actual_weight": "14,000 lbs"
+    },
+    {
+        "code": "WNHU 230045 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Vegetables",
+            "Fruits",
+            "Sports Equipment"
+        ],
+        "origin": "COL",
+        "weight": "27,300 lbs",
+        "actual_weight": "26,200 lbs"
+    },
+    {
+        "code": "WNHU 230046 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Fruits",
+            "Office Supplies"
+        ],
+        "origin": "PER",
+        "weight": "10,800 lbs",
+        "actual_weight": "12,500 lbs"
+    },
+    {
+        "code": "WNHU 230047 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Vegetables",
+            "Fruits",
+            "Jewelry"
+        ],
+        "origin": "COL",
+        "weight": "11,200 lbs",
+        "actual_weight": "9,800 lbs"
+    },
+    {
+        "code": "WNHU 230048 0",
+        "manifest": "manifest003",
+        "categories": [
+            "Fruits",
+            "Electronics"
+        ],
+        "origin": "USA",
+        "weight": "32,000 lbs",
+        "actual_weight": "34,800 lbs"
+    }
+]

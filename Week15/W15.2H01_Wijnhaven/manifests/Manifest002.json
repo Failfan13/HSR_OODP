@@ -1,0 +1,47 @@
+[
+    {
+        "code": "WNHU 230021 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Electronics",
+            "Hardware"
+        ],
+        "origin": "CHN",
+        "weight": "35,695 lbs",
+        "actual_weight": "35,695 lbs"
+    },
+    {
+        "code": "WNHU 230022 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Electronics",
+            "Hardware"
+        ],
+        "origin": "TWN",
+        "weight": "40,320 lbs",
+        "actual_weight": "50,002 lbs"
+    },
+    {
+        "code": "WNHU 230023 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Fruits",
+            "Vegetables",
+            "Cocaïne"
+        ],
+        "origin": "COL",
+        "weight": "30,001 lbs",
+        "actual_weight": "40,990 lbs"
+    },
+    {
+        "code": "WNHU 230024 0",
+        "manifest": "manifest002",
+        "categories": [
+            "GHB",
+            "Corn"
+        ],
+        "origin": "USA",
+        "weight": "9,871 lbs",
+        "actual_weight": "15,246 lbs"
+    }
+]

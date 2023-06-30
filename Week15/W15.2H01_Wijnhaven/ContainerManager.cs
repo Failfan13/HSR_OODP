@@ -4,16 +4,16 @@ using Newtonsoft.Json;
 public static class ContainerManager
 {
     public static Queue<Container> selectedForInspection = new Queue<Container>();
-
+    public static Stack<Container> underReview = new Stack<Container>();
 
     public static void Start(string pathToManifest)
     {
         foreach (string Manifest in Directory.GetFiles(pathToManifest, "*.json"))
         {
-            List<Container> containers = ProcessManifest(Manifest);
-
-            MarkForInspection(containers, c => c.Origin == "COL" && c.Categories.Contains("Fruits"));
+            MarkForInspection(ProcessManifest(Manifest), container => container.Origin == "COL" && container.Categories.Any(c => c == "Fruit"));
         }
+
+        InspectContainers();
     }
 
     public static List<Container> ProcessManifest(string pathManifest)
@@ -41,10 +41,10 @@ public static class ContainerManager
         {
             if (filter != null && filter(container))
             {
-                container.Status = 1;
+                container.Status = ContainerStatus.MarkedForInspection;
                 selectedForInspection.Enqueue(container);
             }
-            else container.Status = 9;
+            else container.Status = ContainerStatus.Approved;
 
             ContainerLogger.Log(container);
         }
@@ -52,4 +52,24 @@ public static class ContainerManager
         Console.WriteLine("Number of containers selected for inspection: " + selectedForInspection.Count);
     }
 
+    public static void InspectContainers()
+    {
+        if (selectedForInspection.Count == 0) return;
+
+        var container = selectedForInspection.Dequeue();
+
+        if (container.ActualWeight > container.Weight * 1.1)
+        {
+            container.Status = ContainerStatus.UnderReview;
+            underReview.Push(container);
+            ContainerLogger.Log(container);
+        }
+        else
+        {
+            container.Status = ContainerStatus.ApprovedAfterInspection;
+            ContainerLogger.Log(container);
+        }
+
+        InspectContainers();
+    }
 }
