@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        var products = Factory.Produce("Tooth Paste", (int)5, (double)2);
+        var products = Factory.Produce("Tooth Paste", 5, 2.0);
         double revenue = SellProducts(products);
         Console.WriteLine($"Revenue from selling: {revenue}");
     }
