@@ -1,0 +1,22 @@
+You are tasked with implementing a program that manages a library's book inventory. The program should allow users to add books, search for books by genre, remove books from the inventory, and undo a removed book in order.
+
+BookCategory
+Create a public enum called BookCategory in BookCategory.cs with the following two categories: Children and Adult.
+
+Book
+Modify class Book in Book.cs:
+
+Add property Category of type BookCategory.
+Adjust the constructor accordingly to set this value.
+Library
+Create the Library class in Library.cs with two fields:
+
+A Dictionary called BookInventory to store the books. The book title should be the key, and the book object should be the value.
+A Stack called RemovedBooks to keep track of the books (objects) that are removed from the inventory.
+Hint: don't forget to initialize these two fields.
+This class has the following methods:
+
+AddBook: takes the title, author, genre and the BookCategory. Creates a Book object and adds it to the BookInventory dictionary.
+SearchByGenre takes a genre and returns a list of books from the BookInventory dictionary that match this genre. (You could use a LINQ where statement).
+RemoveBook takes a book title. If a book with this title exists in the inventory, it is removed from the dictionary and added to the RemovedBooks stack.
+Implement a method called UndoRemove that adds the last removed book back to the inventory.

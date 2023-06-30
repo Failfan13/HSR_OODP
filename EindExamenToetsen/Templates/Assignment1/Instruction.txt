@@ -1,0 +1,38 @@
+IResizable
+Create an interface IResizable with a method named Resize that takes a double and returns nothing.
+
+Shape
+Create class Shape that implements IEquatable of type Shape. It has the following properties:
+
+Width and Height: both are doubles
+Brightness: an int
+Its constructor takes the width, height, and brightness (in that order) and sets them to their respective fields.
+
+CalculateArea: this method returns a double: the Width multiplied by the Height.
+
+Equals: returns a bool. It has two overloads:
+
+one that takes a Shape object as a parameter;
+one that takes any object (remember that this one already exists in the Object class).
+Implement these two Equals methods in such a way that a Shape can be compared to anything (another Shape, a Rectangle, null, etc).
+
+If the parameter is null or not a Shape (a class derived from Shape counts as a Shape), return false.
+If the parameter is a Shape: compare its Brightness, Width and Height to that of the current object. If they are equal, return true; return false otherwise.
+Rectangle
+Create class Rectangle that inherits from Shape and implements two interfaces:
+
+IComparable of type Rectangle
+IResizable
+It has the same properties as its base class Shape. Its constructor takes the same parameters.
+
+CompareTo: this method takes another Rectangle object and returns an int. Implementing this method will allow Sorting of a List of Rectangle objects. In CompareTo, first compare the Brightness, then the area (hint: use one of the implemented methods to compute this). For example, a Sorted List could look like this:
+
+null
+Rectangle (Brightness = 0; CalculateArea = 10.0)
+Rectangle (Brightness = 1; CalculateArea = 20.0)
+Rectangle (Brightness = 1; CalculateArea = 30.0)
+Rectangle (Brightness = 2; CalculateArea = 10.0)
+Resize: this method takes a double (a scale factor). Update the Width and Height by multiplying them with the scale factor.
+
+Utils
+Create the static class Utils that has one method: DoubleSize. It takes a parameter of a generic type, which has a where constraint that limits the allowed types to IResizable. DoubleSize increases the size of the given object by a factor of 2.

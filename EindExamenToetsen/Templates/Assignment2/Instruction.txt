@@ -1,0 +1,41 @@
+For several weeks, football matches have been scheduled every Sunday, with the same number of matches planned for each day.
+However, some Sundays not all of the matches could be played. The results (goals per team) are stored as pairs of two ints in a jagged array (array of arrays).
+
+Create the static class JaggedUtils and implement two generic methods (ONLY using 2D jagged arrays and multidimensional arrays; LINQ is NOT allowed).
+For both methods, it is advisable to use a regular for-loop instead of a foreach-loop.
+
+
+FromTuple2DataEntryPairArray
+This method takes as INPUT an array of Tuples of two different generic types (T1 and T2). It takes the values of the input, and stores it in an array of DataEntryPairs of type T1 and T2 and RETURNs this.
+HINT: have a look at the implementation of given class DataEntryPair. The ToString method displays the result in the following way:
+
+[Home Team score; Guest Team score]
+With a Tuple, the difference is that the brackets are round instead of square, and there is a comma instead of a semicolon (;):
+
+(Home Team score, Guest Team score)
+Each element of the returned DataEntryPair array should contain (in First and Second) the two values contained in the corresponding element of the input array. For example:
+Visualisation Input: [M10]:(3, 6) || [M11]:(3, 7) || [M12]:(7, 4) ||
+Visualisation Output: [M10]:[3; 6] || [M11]:[3; 7] || [M12]:[7; 4] ||
+
+
+ToMultidimensionalArray
+This method takes as INPUT a two-dimensional jagged array of a generic type (so an array of arrays of a generic type)
+and RETURNs a two-dimensional multidimensional array of strings.
+In case the input value is null, return null.
+The elements of the returned array which are present in the input array will be converted to a string, and then stored in the output array. The elements of the returned array which are not present in the input array will be represented in the returned array using this string: (*; *)
+
+HINT: Remember that there is a way to convert any object to a string.
+HINT: In a jagged array, the inner arrays do not necessarily have the same size.
+
+Visualization of the input jagged array. Some results are missing, for instance [M03] and [M04] in the first row):
+[M01]:(2, 4) || [M02]:(3, 4) ||
+[M05]:(7, 8) || [M06]:(3, 2) || [M07]:(6, 9) || [M08]:(5, 4) ||
+[M09]:[7; 2] || [M10]:[3; 5] || [M11]:[5; 1] ||
+[M13]:(1, 5) || [M14]:(3, 1) || [M15]:(2, 0) ||
+Output of the result of applying this method to the input jagged array displayed above:
+[M01]:(2, 4) || [M02]:(3, 4) || [M03]:(*; *) || [M04]:(*; *) ||
+[M05]:(7, 8) || [M06]:(3, 2) || [M07]:(6, 9) || [M08]:(5, 4) ||
+[M09]:[7; 2] || [M10]:[3; 5] || [M11]:[5; 1] || [M12]:(*; *) ||
+[M13]:(1, 5) || [M14]:(3, 1) || [M15]:(2, 0) || [M16]:(*; *) ||
+
+For more examples, have a look at the console output of the tests.

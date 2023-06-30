@@ -1,0 +1,46 @@
+We have provided you with the class Animal and the static class AnimalHierachy. The latter has the static method PrintAnimalHierarchy, which should call the method PrintAnimalNames.
+
+PrintAnimalHierarchy
+Complete the method PrintAnimalHierarchy, so that it calls PrintAnimalNames correctly.
+
+PrintAnimalNames
+This static method takes an Animal object and a lambda expression (Action). It recursively prints the names of the animals and their children, using the lambda expression as the print action.
+
+The lambda expression (Action) takes an object of class Animal, prints its name to the console, and returns nothing.
+For example:
+
+Animal lion = new Animal("Lion", new List<Animal>
+{
+    new Animal("Cub 1", null),
+    new Animal("Cub 2", null)
+});
+
+Animal elephant = new Animal("Elephant", new List<Animal>
+{
+    new Animal("Calf 1", null),
+    new Animal("Calf 2", new List<Animal>
+    {
+        new Animal("Calf 2.1", null),
+        new Animal("Calf 2.2", null)
+    })
+});
+
+Animal zoo = new Animal("Zoo", new List<Animal>
+{
+    lion,
+    elephant
+});
+
+AnimalHierarchy.PrintAnimalHierarchy(zoo);
+The above code should result in the following console output:
+
+Animal Names:
+Zoo
+Lion
+Cub 1
+Cub 2
+Elephant
+Calf 1
+Calf 2
+Calf 2.1
+Calf 2.2
