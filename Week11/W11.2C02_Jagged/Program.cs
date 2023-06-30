@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        int[][] SalesArr;
+        int[][] SalesArr = null;
 
         Console.WriteLine("How many departments are there");
         string inp1 = Console.ReadLine();
@@ -16,5 +16,6 @@
         if (Int32.TryParse(inp1, out int departments))
             SalesArr = new int[departments][];
 
+        SalesHelper.PrintSalesData(SalesArr);
     }
 }

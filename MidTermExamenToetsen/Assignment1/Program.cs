@@ -4,16 +4,22 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        switch (args[1])
-        {
-            case "StaticClass": TestStaticClass(); return;
-            case "Readonly": TestReadonlyFields(); return;
-            case "Const": TestConstFields(); return;
-            case "FunItem": TestItemFunctionality(); return;
-            case "Inventory": TestShopInventory(); return;
-            case "Buy": TestShopBuy(); return;
-            default: throw new ArgumentException();
-        }
+        // switch (args[1])
+        // {
+        //     case "StaticClass": TestStaticClass(); return;
+        //     case "Readonly": TestReadonlyFields(); return;
+        //     case "Const": TestConstFields(); return;
+        //     case "FunItem": TestItemFunctionality(); return;
+        //     case "Inventory": TestShopInventory(); return;
+        //     case "Buy": TestShopBuy(); return;
+        //     default: throw new ArgumentException();
+        // }
+        TestStaticClass();
+        TestReadonlyFields();
+        TestConstFields();
+        TestItemFunctionality();
+        TestShopInventory();
+        TestShopBuy();
     }
 
     private static void TestStaticClass()
