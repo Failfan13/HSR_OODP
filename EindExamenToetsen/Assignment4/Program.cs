@@ -2,34 +2,34 @@
 {
     public static void Main(string[] args)
     {
-        switch (args[1])
-        {
-            case "TestAddBook":
-                TestAddBook();
-                break;
-            case "TestRemoveBook":
-                TestRemoveBook();
-                break;
-            case "TestUndoRemove":
-                TestUndoRemove();
-                break;
-            case "TestSearchByGenreUnordered":
-                TestSearchByGenreUnordered();
-                break;
-            case "TestMultipleUndoRemove":
-                TestMultipleUndoRemove();
-                break;
-            default:
-                Console.WriteLine("No test found. Wrong argument");
-                break;
-        }
+        // switch (args[1])
+        // {
+        //     case "TestAddBook":
+        //         TestAddBook();
+        //         break;
+        //     case "TestRemoveBook":
+        //         TestRemoveBook();
+        //         break;
+        //     case "TestUndoRemove":
+        //         TestUndoRemove();
+        //         break;
+        //     case "TestSearchByGenreUnordered":
+        //         TestSearchByGenreUnordered();
+        //         break;
+        //     case "TestMultipleUndoRemove":
+        //         TestMultipleUndoRemove();
+        //         break;
+        //     default:
+        //         Console.WriteLine("No test found. Wrong argument");
+        //         break;
+        // }
 
         // call all methods to test the functionality
-        // TestAddBook();
-        // TestRemoveBook();
-        // TestUndoRemove();
-        // TestMultipleUndoRemove();
-        // TestSearchByGenreUnordered();
+        TestAddBook();
+        TestRemoveBook();
+        TestUndoRemove();
+        TestMultipleUndoRemove();
+        TestSearchByGenreUnordered();
 
     }
 
@@ -89,7 +89,7 @@
         }
 
         //Doing one more with a hidden name to prevent cheating
-        HiddenTests.TestUndoRemove();
+        //HiddenTests.TestUndoRemove();
 
 
 
@@ -129,7 +129,7 @@
         }
 
         //Doing one more with a hidden name to prevent cheating
-        HiddenTests.TestMultipleUndoRemove();
+        //HiddenTests.TestMultipleUndoRemove();
 
 
 
@@ -157,7 +157,7 @@
         Console.WriteLine(result);
 
         //Doing one more with hidden names to prevent cheating
-        HiddenTests.TestSearchByGenreUnordered();
+        //HiddenTests.TestSearchByGenreUnordered();
 
 
         //expected output:

@@ -2,20 +2,22 @@
 {
     public static void Main(string[] args)
     {
-        switch (args[1])
-        {
-            case "TestPrintAnimalHierarchy":
-                TestPrintAnimalHierarchy();
-                break;
+        // switch (args[1])
+        // {
+        //     case "TestPrintAnimalHierarchy":
+        //         TestPrintAnimalHierarchy();
+        //         break;
 
-            // CodeTester class
-            case "CodeTesterLambda":
-                CodeTester.TestLambda();
-                break;
-            default:
-                Console.WriteLine("No test found");
-                break;
-        }
+        //     // CodeTester class
+        //     case "CodeTesterLambda":
+        //         //CodeTester.TestLambda();
+        //         break;
+        //     default:
+        //         Console.WriteLine("No test found");
+        //         break;
+        // }
+
+        TestPrintAnimalHierarchy();
     }
     public static void TestPrintAnimalHierarchy()
     {

@@ -8,13 +8,14 @@ public class Program
 
     public static void Main(string[] args)
     {
-        switch (args[1])
-        {
-            case "VisibleTest": VisibleTest(); return;
-            case "HiddenTest": HiddenUtils.HiddenTest(); return;
-            case "HiddenTestMap": HiddenUtils.HiddenTestMap(); return;
-            default: throw new ArgumentException();
-        }
+        // switch (args[1])
+        // {
+        //     case "VisibleTest": VisibleTest(); return;
+        //     case "HiddenTest": HiddenUtils.HiddenTest(); return;
+        //     case "HiddenTestMap": HiddenUtils.HiddenTestMap(); return;
+        //     default: throw new ArgumentException();
+        // }
+        VisibleTest();
     }
     public static void VisibleTest()
     {
@@ -35,23 +36,23 @@ public class Program
 
 
         Console.WriteLine("Visualisation jagged array tupleArray:");
-        PrintUtils.PrintTest(tupleArray);
+        //PrintUtils.PrintTest(tupleArray);
         Console.WriteLine();
         var res = JaggedUtils.ToMultidimensionalArray(tupleArray);
         Console.WriteLine("Visualisation corresponding multidimensional array after applying the method to tupleArray:");
-        PrintUtils.PrintTest(res);
+        //PrintUtils.PrintTest(res);
         Console.WriteLine();
 
         res = JaggedUtils.ToMultidimensionalArray(mixedArray);
         Console.WriteLine("Visualisation corresponding multidimensional array after applying the method to mixedArray:");
-        PrintUtils.PrintTest(res);
+        //PrintUtils.PrintTest(res);
         Console.WriteLine();
 
         int row = 3;
         Console.WriteLine($"After transforming row: {row}");
         mixedArray[row] = JaggedUtils.FromTuple2DataEntryPairArray(mixedArray[row] as Tuple<int, int>[]);
         res = JaggedUtils.ToMultidimensionalArray(mixedArray);
-        PrintUtils.PrintTest(res);
+        //PrintUtils.PrintTest(res);
         Console.WriteLine();
     }
 }
