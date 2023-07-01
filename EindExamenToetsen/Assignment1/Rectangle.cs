@@ -1,4 +1,4 @@
-public class Rectangle : Shape, IComparable<Rectangle>, IResizeable
+public class Rectangle : Shape, IComparable<Rectangle>, IResizable
 {
     public Rectangle(double width, double height, int brightness)
         : base(width, height, brightness) { }

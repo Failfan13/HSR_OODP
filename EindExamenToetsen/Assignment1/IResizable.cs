@@ -1,4 +1,4 @@
-public interface IResizeable
+public interface IResizable
 {
     void Resize(double inp);
 }
