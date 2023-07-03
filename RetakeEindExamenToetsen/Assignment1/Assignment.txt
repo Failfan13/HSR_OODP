@@ -1,0 +1,43 @@
+IAccount
+Create an interface IAccount that implements IEquatable of type IAccount. This interface has:
+
+property AccountNumber, a read-only string
+property Balance, a read-only double.
+method Deposit that takes a double and returns nothing.
+method Withdraw that takes a double and returns nothing.
+BankAccount
+Create a class BankAccount that implements IAccount.
+
+It has the following properties:
+
+The value of Balance starts at 0. This property can be read everywhere but written only within this class.
+It has the following methods:
+
+Its constructor takes a string and sets this to AccountNumber.
+Deposit: adds the given double to Balance. Note: you don't need to check whether the given double is negative.
+Withdraw: reduces the Balance by the given double
+Note: you don't need to check whether the given double is negative or if there is enough Balance.
+Equals: returns a bool and checks the equality based on the AccountNumber. It has two overloads:
+
+one that takes an IAccount object as a parameter;
+
+one that takes any object (remember that this Equals already exists in the Object class).
+
+HINT: Don't forget to implement null checks.
+
+SavingsAccount (generic class)
+Create a generic class SavingsAccount which inherits from BankAccount and implements IComparable of type IAccount. This generic class should be comparable to any class implementing IAccount and comparison should be based on the Balance.
+
+It has the same properties as its base class BankAccount, and one additional one:
+
+InterestRate a read-only property of the same generic type of this class.
+Its constructor takes the account number and the interest rate (in that order), and sets these to their respective properties
+
+HINT: method CompareTo takes another IAccount object and returns an int.
+
+BankUtils
+Create the static class BankUtils that has one method:
+
+PrintAccountBalance: takes a parameter of a generic type. It has a generic type constraint that limits the allowed types to IAccount. It prints the AccountNumber and Balance in the following format:
+Account Number: ABC123
+Balance: 1000.0

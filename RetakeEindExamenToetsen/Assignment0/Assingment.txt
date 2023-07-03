@@ -1,0 +1,37 @@
+IRechargeable
+Create interface IRechargeable with:
+
+method Recharge: takes nothing and returns nothing.
+property BatteryLevel: an int that can be read and written anywhere.
+ICamera
+Create interface ICamera with:
+
+method TakePhoto: takes nothing and returns nothing.
+ElectricDevice
+Create class ElectricDevice. This class cannot be instantiated and implements IRechargeable. It has the following properties:
+
+Name: a read-only string.
+IsOn: a bool that can be read anywhere but written only in this and derived classes.
+It has the following methods:
+
+Its constructor: takes the name and sets it to its respective property.
+TurnOn: takes nothing and returns nothing. This method has no implementation.
+TurnOff: takes nothing and returns nothing. This method has no implementation.
+Display: takes nothing and returns nothing. This method has no implementation.
+Smartphone
+This class inherits from ElectricDevice and implements ICamera. It has the following properties:
+
+Generation: a read-only string.
+BatteryLevel: an int that can be read from and written to anywhere and must be implemented from interface IRechargeable. This property is clamped between 0 and 100 (so if it is tried to be set to less than 0, it is set to 0, and if it is tried to be set to more than 100, it is set to 100).
+It has the following methods:
+
+Its constructor: takes the name and generation (in that order) and sets these to their respective properties. IsOn is set to false and BatteryLevel to 0.
+TurnOn: sets the value of IsOn to true and prints a message on the screen. If the BatteryLevel is 0, it cannot be turned on.
+Messages to be printed: "{Name} is turned on." or "{Name} can not be turned on."
+TurnOff: sets the value of IsOn to false and prints a message on the screen.
+Message to be printed: "{Name} is turned off."
+Recharge: sets BatteryLevel to 100 and prints a message on the screen.
+Message to be printed: "{Name} is fully recharged."
+Display: print the following information on the screen: "DISPLAY-Name:{Name}-Generation:{Generation}-Battery Level:{BatteryLevel}".
+TakePhoto: takes a photo and writes a message on the screen and decreases BatteryLevel with 1. However, if BatteryLevel is 0 or the phone is turned off, it cannot take a photo.
+Messages to be printed: "{Name} took a photo." or "{Name} can not take a photo."

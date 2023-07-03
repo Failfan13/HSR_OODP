@@ -1,0 +1,40 @@
+A collection of words or numbers (or other data types) have been stored in a two-dimensional array. For certain reasons it would be interesting to see whether meaningful sentences can be found in that collection.
+The search for sentences happens horizontally and vertically.
+
+Create the static class TextUtils and implement the public static method CreateSentences. This method should ONLY use 2D jagged arrays and multidimensional arrays (LINQ is NOT allowed).
+It is advisable to use a regular for-loop instead of a foreach-loop.
+
+CreateSentences
+This method takes as input a two-dimensional jagged array of a generic type (so an array of arrays of a generic type) and returns a Tuple containing two array of strings. In case the input value is null, it returns null.
+The first element of the returned tuple will be an array of strings, containing the horizontal concatenation of the string representation of the contained objects.
+The second element of the returned tuple will be an array of strings, containing the vertical concatenation
+of the string representation of the contained objects.
+
+HINT: Remember that there is a way to convert any object to a string.
+HINT: In a jagged array, the inner arrays do not necessarily have the same size.
+
+Example of the input jagged array:
+
+object[][] text = {  
+    new string[] { "cat"   ,"is" ,"an" ,"animal"                },
+    new object[] { "is"    ,2.5  ,"ant"                         },
+    new string[] { "a"     ,"not","is" ,"an"     ,"animal" ,"!" },
+    new string[] { "feline","is" ,"an" ,"animal"                }, 
+    new string[] { ""      ,"is" ,"ant","insect?"               }
+};  
+Visualization of sentences read horizontally:
+row 0: cat is an animal
+row 1: is 2.5 ant
+row 2: a not is an animal !
+row 3: feline is an animal
+row 4: is ant insect?
+
+Visualization of sentences read vertically:
+col 0: cat is a feline
+col 1: is 2.5 not is is
+col 2: an ant is an ant
+col 3: animal an animal insect?
+col 4: animal
+col 5: !
+
+For more examples, have a look at the console output of the hidden tests.

@@ -1,0 +1,65 @@
+The Pokedex is an electronic device created and designed to catalog and provide information regarding the various species of Pokemon. In this assignment you will write code to implement a small part of this fictive device.
+
+We have provided you with the class Pokemon and the static class Pokedex. The latter has the static method PrintTotalEvolutions, which should call the method PrintEvolutionCount.
+
+PrintTotalEvolutions
+Complete the method Pokedex.PrintTotalEvolutions, so that it calls Pokedex.PrintEvolutionCount correctly.
+
+PrintEvolutionCount
+This static method takes an List<Pokemon> object and a lambda expression (Action). It recursively prints the name of each pokemon in the list and the number of evolutions it has, using the lambda expression as the print action.
+
+Nothing is printed for a pokemon in the list with no evolutions (see the example output below). This check should be done in the recursive function itself and not in the lambda expression.
+
+The lambda expression (Action) takes an object of class Pokemon and returns nothing.
+For example:
+
+List<Pokemon> PokemonList = new() {
+    new Pokemon {
+        Name = "Charmander",
+        Evolutions = new List<Pokemon> {
+            new Pokemon {
+                Name = "Charmeleon",
+                Evolutions = new List<Pokemon> {
+                    new Pokemon {
+                        Name = "Charizard",
+                        Evolutions = new List<Pokemon> {
+                            new Pokemon { Name = "Mega Charizard X" },
+                            new Pokemon { Name = "Mega Charizard Y" }
+                        }
+                    }
+                }
+            },
+        }
+    },
+    new Pokemon {
+        Name = "Bulbasaur",
+        Evolutions = new List<Pokemon> {
+            new Pokemon {
+                Name = "Ivysaur",
+                Evolutions = new List<Pokemon> {
+                    new Pokemon { Name = "Venusaur" }
+                }
+            }
+        }
+    },
+    new Pokemon {
+        Name = "Squirtle",
+        Evolutions = new List<Pokemon> {
+            new Pokemon {
+                Name = "Wartortle",
+                Evolutions = new List<Pokemon> {
+                    new Pokemon { Name = "Blastoise" }
+                }
+            }
+        }
+    }
+};
+The above code should result in the following console output:
+
+Charmander has 1 evolutions.
+Charmeleon has 1 evolutions.
+Charizard has 2 evolutions.
+Bulbasaur has 1 evolutions.
+Ivysaur has 1 evolutions.
+Squirtle has 1 evolutions.
+Wartortle has 1 evolutions.

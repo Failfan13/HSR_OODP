@@ -1,0 +1,26 @@
+You have been assigned to develop a Task Management System for a team of software developers. The system should allow creating tasks, assigning them to team members, tracking their status and providing search functionality.
+
+Task
+Create the enum TaskStatus containing three members: New, InProgress, Completed. Create the enum outside class Task, but in Task.cs file.
+
+Edit the given class Task:
+
+Add a property called Status of type TaskStatus.
+Add a line to the constructor so that each time an object Task is created, its status is set to New.
+TaskManager
+Create a class called TaskManager to manage the tasks.
+
+It should have the following public fields:
+
+A Dictionary<string, Task> called Tasks to store tasks. The key is the title of the task, the value is the Task object.
+A Queue<string> called Employees to manage the employees.
+Hint: do not forget to initialize the two fields mentioned above.
+Implement the following methods:
+
+CreateTask takes the title and description as parameters. Inside the method, create a new Task object with the provided information, set the assignee to null and add it to the Tasks Dictionary.
+AssignTask takes the title of a task. Inside the method, find the task with the given title in the Tasks Dictionary and update the Assignee to the next employee from the Employees Queue. The employee is removed from the Queue after it has been assigned to the task. The status of the task needs to change to InProgress.
+UpdateTaskStatus takes the title of a task and the new status as parameters. Inside the method, find the task with the given title in the Tasks Dictionary and update its status.
+SearchTasksByAssignee takes the assignee (string) as a parameter and returns a list of tasks assigned to the specified assignee. You can use LINQ Where.
+SearchTasksByStatus takes the status as a parameter and returns a list of tasks with the specified status. You can use LINQ Where.
+AddEmployee takes an employee name (string) as a parameter and adds it to the Employees Queue.
+SearchEmployee takes an employee name (string) as a parameter. It returns a boolean: true if the employee is in the queue; false if not.
